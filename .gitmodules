@@ -1,3 +1,6 @@
 [submodule "Monokai/monokai.terminal"]
 	path = Monokai/monokai.terminal
 	url = https://github.com/stephenway/monokai.terminal.git
+[submodule "tomorrow-theme/tomorrow-theme"]
+	path = tomorrow-theme/tomorrow-theme
+	url = https://github.com/chriskempson/tomorrow-theme.git

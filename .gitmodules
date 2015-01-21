@@ -4,3 +4,6 @@
 [submodule "tomorrow-theme/tomorrow-theme"]
 	path = tomorrow-theme/tomorrow-theme
 	url = https://github.com/chriskempson/tomorrow-theme.git
+[submodule "solarized/osx-terminal.app-colors-solarized"]
+	path = solarized/osx-terminal.app-colors-solarized
+	url = https://github.com/tomislav/osx-terminal.app-colors-solarized

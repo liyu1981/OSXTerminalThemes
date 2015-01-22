@@ -10,3 +10,6 @@
 [submodule "Smyck/Smyck-Color-Scheme"]
 	path = Smyck/Smyck-Color-Scheme
 	url = https://github.com/hukl/Smyck-Color-Scheme/
+[submodule "Piperita/terminal-piperita"]
+	path = Piperita/terminal-piperita
+	url = https://github.com/jacobtomlinson/terminal-piperita
